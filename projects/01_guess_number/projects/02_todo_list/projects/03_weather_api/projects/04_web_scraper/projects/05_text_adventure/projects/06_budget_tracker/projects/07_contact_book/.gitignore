@@ -1,0 +1,28 @@
+# Python cache/compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+ENV/
+env/
+.venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
